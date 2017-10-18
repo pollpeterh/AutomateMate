@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomateMatePOC", "AutomateMatePOC\AutomateMatePOC.csproj", "{B7EA3239-65AB-49DA-A5FE-0A7B799F2626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomateMatePOCMain", "AutomateMatePOCMain\AutomateMatePOCMain.csproj", "{1FD2280F-9AF0-46F9-AAB5-D219D47FF850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7EA3239-65AB-49DA-A5FE-0A7B799F2626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EA3239-65AB-49DA-A5FE-0A7B799F2626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EA3239-65AB-49DA-A5FE-0A7B799F2626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EA3239-65AB-49DA-A5FE-0A7B799F2626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD2280F-9AF0-46F9-AAB5-D219D47FF850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD2280F-9AF0-46F9-AAB5-D219D47FF850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD2280F-9AF0-46F9-AAB5-D219D47FF850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD2280F-9AF0-46F9-AAB5-D219D47FF850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0418E86-3A00-4FA2-9B41-7F2E8B8EBB88}
+	EndGlobalSection
+EndGlobal
